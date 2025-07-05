@@ -14,7 +14,7 @@
     <h2>🛒 Grocery Run</h2>
     <p>We argued over which wine is the best. I let you win, of course.</p>
 
-    <h2>🎮 Couch Gaming</h2>
+    <h2>🎮 Gaming</h2>
     <p>We finally found an opened cyber coffee to play Overwatch. You saved me with a Zarya bubble, but after that I let you die because I was distracted with a cute frog on the map (sorry! >_<).</p>
 
     <h2>🌆 Walking back home</h2>
